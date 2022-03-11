@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![edypidy's github stats](https://github-readme-stats.vercel.app/api?username=edypidy&show_icons=true)
-[![edypidy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edypidyID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/edypidy)
+[![edypidy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edypidy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/edypidy)
 
 
 <!--
