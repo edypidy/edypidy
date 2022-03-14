@@ -1,4 +1,5 @@
-### 😄I'm using github as study-shelf and putting statistics notebook or rudimentaries(Python, ML, DL) on the shelf.
+### 😄I'm using github as study-shelf 
+### 🧐and putting statistics notebook or rudimentaries(Python, ML, DL) on the shelf.
 ### 🌱 I’m currently learning Time-Series forecasting&analysis and Categorical-Data analysis
 
 ![edypidy's github stats](https://github-readme-stats.vercel.app/api?username=edypidy&show_icons=true)
