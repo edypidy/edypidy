@@ -1,5 +1,5 @@
-### 😄I am using github as my study repository.
-### Study subject is likely to be statistics or programming(Python).
+### 😄I'm using github as study-shelf and putting statistics notebook or rudimentaries(Python, ML, DL) on the shelf.
+### 🌱 I’m currently learning Time-Series forecasting&analysis and Categorical-Data analysis
 
 ![edypidy's github stats](https://github-readme-stats.vercel.app/api?username=edypidy&show_icons=true)
 [![edypidy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edypidy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/edypidy)
